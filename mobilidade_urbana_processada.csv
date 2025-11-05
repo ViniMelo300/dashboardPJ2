@@ -1,0 +1,63 @@
+data,hora,rua/avenida,veículos_por_minuto,tipo_de_veículo,ocorrência,chuva
+2025-09-01,07:00,Av. Brasil,17,Carro,Sem incidente,Chuva leve
+2025-09-01,07:00,Av. Brasil,3,Ônibus,Sem incidente,Chuva intensa
+2025-09-01,07:00,Av. Brasil,6,Moto,Sem incidente,Chuva leve
+2025-09-01,07:30,Av. Brasil,15,Carro,Sem incidente,Chuva intensa
+2025-09-01,07:30,Av. Brasil,3,Ônibus,Sem incidente,Chuva intensa
+2025-09-01,07:30,Av. Brasil,7,Moto,Sem incidente,Tempo seco
+2025-09-01,10:00,Rua das Flores,5,Carro,Obra,Chuva intensa
+2025-09-01,10:00,Rua das Flores,2,Moto,Sem incidente,Chuva leve
+2025-09-01,18:00,Av. Independência,20,Carro,Acidente,Chuva intensa
+2025-09-01,18:00,Av. Independência,5,Ônibus,Acidente,Chuva intensa
+2025-09-02,07:00,Av. Brasil,16,Carro,Sem incidente,Chuva intensa
+2025-09-02,07:00,Av. Brasil,3,Ônibus,Sem incidente,Chuva leve
+2025-09-02,07:00,Av. Brasil,7,Moto,Sem incidente,Chuva intensa
+2025-09-02,12:30,Rua das Flores,6,Carro,Obra,Chuva intensa
+2025-09-02,12:30,Rua das Flores,1,Moto,Sem incidente,Tempo seco
+2025-09-02,17:00,Av. Independência,21,Carro,Sem incidente,Chuva leve
+2025-09-02,17:00,Av. Independência,5,Ônibus,Sem incidente,Tempo seco
+2025-09-02,17:00,Av. Independência,8,Moto,Sem incidente,Chuva intensa
+2025-09-03,07:00,Av. Brasil,18,Carro,Sem incidente,Chuva intensa
+2025-09-03,07:00,Av. Brasil,4,Ônibus,Sem incidente,Chuva leve
+2025-09-03,07:00,Av. Brasil,5,Moto,Sem incidente,Tempo seco
+2025-09-03,07:30,Av. Brasil,16,Carro,Sem incidente,Chuva intensa
+2025-09-03,07:30,Av. Brasil,3,Ônibus,Sem incidente,Tempo seco
+2025-09-03,07:30,Av. Brasil,6,Moto,Sem incidente,Chuva intensa
+2025-09-03,10:00,Rua das Flores,7,Carro,Obra,Tempo seco
+2025-09-03,10:00,Rua das Flores,2,Moto,Sem incidente,Chuva intensa
+2025-09-03,18:00,Av. Independência,19,Carro,Sem incidente,Chuva intensa
+2025-09-03,18:00,Av. Independência,6,Ônibus,Sem incidente,Tempo seco
+2025-09-03,18:00,Av. Independência,9,Moto,Sem incidente,Chuva intensa
+2025-09-04,07:00,Av. Brasil,17,Carro,Sem incidente,Chuva intensa
+2025-09-04,07:00,Av. Brasil,3,Ônibus,Sem incidente,Chuva intensa
+2025-09-04,07:00,Av. Brasil,6,Moto,Sem incidente,Chuva intensa
+2025-09-04,07:30,Av. Brasil,14,Carro,Sem incidente,Chuva intensa
+2025-09-04,07:30,Av. Brasil,4,Ônibus,Sem incidente,Tempo seco
+2025-09-04,07:30,Av. Brasil,7,Moto,Sem incidente,Chuva leve
+2025-09-04,10:00,Rua das Flores,6,Carro,Obra,Chuva intensa
+2025-09-04,10:00,Rua das Flores,1,Moto,Sem incidente,Chuva intensa
+2025-09-04,18:00,Av. Independência,21,Carro,Acidente,Chuva leve
+2025-09-04,18:00,Av. Independência,5,Ônibus,Acidente,Chuva leve
+2025-09-04,18:00,Av. Independência,8,Moto,Sem incidente,Chuva intensa
+2025-09-05,07:00,Av. Brasil,16,Carro,Sem incidente,Chuva intensa
+2025-09-05,07:00,Av. Brasil,3,Ônibus,Sem incidente,Chuva intensa
+2025-09-05,07:00,Av. Brasil,7,Moto,Sem incidente,Tempo seco
+2025-09-05,07:30,Av. Brasil,15,Carro,Sem incidente,Chuva leve
+2025-09-05,07:30,Av. Brasil,2,Ônibus,Sem incidente,Chuva intensa
+2025-09-05,07:30,Av. Brasil,6,Moto,Sem incidente,Chuva leve
+2025-09-05,10:00,Rua das Flores,5,Carro,Obra,Chuva intensa
+2025-09-05,10:00,Rua das Flores,2,Moto,Sem incidente,Chuva intensa
+2025-09-05,18:00,Av. Independência,20,Carro,Sem incidente,Chuva leve
+2025-09-05,18:00,Av. Independência,5,Ônibus,Sem incidente,Chuva leve
+2025-09-05,18:00,Av. Independência,7,Moto,Sem incidente,Chuva leve
+2025-09-06,07:00,Av. Brasil,17,Carro,Sem incidente,Chuva intensa
+2025-09-06,07:00,Av. Brasil,3,Ônibus,Sem incidente,Tempo seco
+2025-09-06,07:00,Av. Brasil,6,Moto,Sem incidente,Chuva intensa
+2025-09-06,07:30,Av. Brasil,16,Carro,Sem incidente,Chuva leve
+2025-09-06,07:30,Av. Brasil,4,Ônibus,Sem incidente,Chuva leve
+2025-09-06,07:30,Av. Brasil,5,Moto,Sem incidente,Chuva leve
+2025-09-06,10:00,Rua das Flores,7,Carro,Obra,Tempo seco
+2025-09-06,10:00,Rua das Flores,1,Moto,Sem incidente,Chuva leve
+2025-09-06,18:00,Av. Independência,22,Carro,Acidente,Chuva leve
+2025-09-06,18:00,Av. Independência,4,Ônibus,Acidente,Chuva leve
+2025-09-06,18:00,Av. Independência,8,Moto,Sem incidente,Tempo seco
